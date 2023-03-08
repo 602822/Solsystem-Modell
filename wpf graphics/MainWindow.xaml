@@ -1,0 +1,18 @@
+﻿<Window x:Class="wpf_graphics.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf_graphics"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Name="myGrid">
+        <Canvas Margin="10,10,9,8" Name="myCanvas">
+            <Ellipse Name="planet" Fill="Red" Height="54" Canvas.Left="179" Stroke="Black" Canvas.Top="112" Width="54"/>
+            <Ellipse Name="planet2" Fill="Blue" Height="54" Canvas.Left="179" Stroke="Black" Canvas.Top="112" Width="54"/>
+            <Grid Width="{Binding ActualWidth, ElementName=myCanvas}" Height="{Binding ActualHeight, ElementName=myCanvas}">
+                <Ellipse Fill="Yellow" Height="80" Width="80"/>
+            </Grid>
+        </Canvas>
+    </Grid>
+</Window>

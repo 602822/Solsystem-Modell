@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vefje\\source\\repos\\SolsystemMain\\the graphics\\the graphics.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vefje\\source\\repos\\SolsystemMain\\SolsystemMain\\SolsystemMain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vefje\\source\\repos\\SolsystemMain\\SolsystemMain\\SolsystemMain.csproj",
+        "projectName": "SolsystemMain",
+        "projectPath": "C:\\Users\\vefje\\source\\repos\\SolsystemMain\\SolsystemMain\\SolsystemMain.csproj",
+        "packagesPath": "C:\\Users\\vefje\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vefje\\source\\repos\\SolsystemMain\\SolsystemMain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vefje\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vefje\\source\\repos\\SolsystemMain\\Solsystem\\Solsystem.csproj": {
+                "projectPath": "C:\\Users\\vefje\\source\\repos\\SolsystemMain\\Solsystem\\Solsystem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vefje\\source\\repos\\SolsystemMain\\Solsystem\\Solsystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vefje\\source\\repos\\SolsystemMain\\Solsystem\\Solsystem.csproj",
+        "projectName": "Solsystem",
+        "projectPath": "C:\\Users\\vefje\\source\\repos\\SolsystemMain\\Solsystem\\Solsystem.csproj",
+        "packagesPath": "C:\\Users\\vefje\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vefje\\source\\repos\\SolsystemMain\\Solsystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vefje\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vefje\\source\\repos\\SolsystemMain\\the graphics\\the graphics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vefje\\source\\repos\\SolsystemMain\\the graphics\\the graphics.csproj",
+        "projectName": "the graphics",
+        "projectPath": "C:\\Users\\vefje\\source\\repos\\SolsystemMain\\the graphics\\the graphics.csproj",
+        "packagesPath": "C:\\Users\\vefje\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vefje\\source\\repos\\SolsystemMain\\the graphics\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vefje\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\vefje\\source\\repos\\SolsystemMain\\SolsystemMain\\SolsystemMain.csproj": {
+                "projectPath": "C:\\Users\\vefje\\source\\repos\\SolsystemMain\\SolsystemMain\\SolsystemMain.csproj"
+              },
+              "C:\\Users\\vefje\\source\\repos\\SolsystemMain\\Solsystem\\Solsystem.csproj": {
+                "projectPath": "C:\\Users\\vefje\\source\\repos\\SolsystemMain\\Solsystem\\Solsystem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\bin\Debug\net6.0-windows\the graphics.exe
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\bin\Debug\net6.0-windows\the graphics.deps.json
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\bin\Debug\net6.0-windows\the graphics.runtimeconfig.json
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\bin\Debug\net6.0-windows\the graphics.dll
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\bin\Debug\net6.0-windows\the graphics.pdb
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\obj\Debug\net6.0-windows\the graphics.csproj.AssemblyReference.cache
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\obj\Debug\net6.0-windows\the_graphics.Form1.resources
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\obj\Debug\net6.0-windows\the graphics.csproj.GenerateResource.cache
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\obj\Debug\net6.0-windows\the graphics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\obj\Debug\net6.0-windows\the graphics.AssemblyInfoInputs.cache
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\obj\Debug\net6.0-windows\the graphics.AssemblyInfo.cs
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\obj\Debug\net6.0-windows\the graphics.csproj.CoreCompileInputs.cache
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\obj\Debug\net6.0-windows\the graphics.dll
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\obj\Debug\net6.0-windows\refint\the graphics.dll
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\obj\Debug\net6.0-windows\the graphics.pdb
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\obj\Debug\net6.0-windows\the graphics.genruntimeconfig.cache
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\obj\Debug\net6.0-windows\ref\the graphics.dll
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\bin\Debug\net6.0-windows\SolsystemMain.deps.json
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\bin\Debug\net6.0-windows\SolsystemMain.runtimeconfig.json
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\bin\Debug\net6.0-windows\SolsystemMain.exe
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\bin\Debug\net6.0-windows\Solsystem.dll
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\bin\Debug\net6.0-windows\SolsystemMain.dll
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\bin\Debug\net6.0-windows\SolsystemMain.pdb
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\bin\Debug\net6.0-windows\Solsystem.pdb
+C:\Users\vefje\source\repos\SolsystemMain\the graphics\obj\Debug\net6.0-windows\the graphics.csproj.CopyComplete

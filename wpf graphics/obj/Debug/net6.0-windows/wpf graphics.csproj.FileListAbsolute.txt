@@ -1,0 +1,29 @@
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\bin\Debug\net6.0-windows\SolsystemMain.deps.json
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\bin\Debug\net6.0-windows\SolsystemMain.runtimeconfig.json
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\bin\Debug\net6.0-windows\SolsystemMain.exe
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\bin\Debug\net6.0-windows\wpf graphics.exe
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\bin\Debug\net6.0-windows\wpf graphics.deps.json
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\bin\Debug\net6.0-windows\wpf graphics.runtimeconfig.json
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\bin\Debug\net6.0-windows\wpf graphics.dll
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\bin\Debug\net6.0-windows\wpf graphics.pdb
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\bin\Debug\net6.0-windows\Solsystem.dll
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\bin\Debug\net6.0-windows\SolsystemMain.dll
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\bin\Debug\net6.0-windows\SolsystemMain.pdb
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\bin\Debug\net6.0-windows\Solsystem.pdb
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\obj\Debug\net6.0-windows\wpf graphics.csproj.AssemblyReference.cache
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\obj\Debug\net6.0-windows\wpf graphics_MarkupCompile.cache
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\obj\Debug\net6.0-windows\wpf graphics_MarkupCompile.lref
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\obj\Debug\net6.0-windows\wpf graphics.g.resources
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\obj\Debug\net6.0-windows\wpf graphics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\obj\Debug\net6.0-windows\wpf graphics.AssemblyInfoInputs.cache
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\obj\Debug\net6.0-windows\wpf graphics.AssemblyInfo.cs
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\obj\Debug\net6.0-windows\wpf graphics.csproj.CoreCompileInputs.cache
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\obj\Debug\net6.0-windows\wpf graphics.csproj.CopyComplete
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\obj\Debug\net6.0-windows\wpf graphics.dll
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\obj\Debug\net6.0-windows\refint\wpf graphics.dll
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\obj\Debug\net6.0-windows\wpf graphics.pdb
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\obj\Debug\net6.0-windows\wpf graphics.genruntimeconfig.cache
+C:\Users\vefje\source\repos\SolsystemMain\wpf graphics\obj\Debug\net6.0-windows\ref\wpf graphics.dll

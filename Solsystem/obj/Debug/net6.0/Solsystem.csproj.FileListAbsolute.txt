@@ -1,0 +1,12 @@
+C:\Users\vefje\source\repos\SolsystemMain\Solsystem\bin\Debug\net6.0\Solsystem.deps.json
+C:\Users\vefje\source\repos\SolsystemMain\Solsystem\bin\Debug\net6.0\Solsystem.dll
+C:\Users\vefje\source\repos\SolsystemMain\Solsystem\bin\Debug\net6.0\Solsystem.pdb
+C:\Users\vefje\source\repos\SolsystemMain\Solsystem\obj\Debug\net6.0\Solsystem.csproj.AssemblyReference.cache
+C:\Users\vefje\source\repos\SolsystemMain\Solsystem\obj\Debug\net6.0\Solsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vefje\source\repos\SolsystemMain\Solsystem\obj\Debug\net6.0\Solsystem.AssemblyInfoInputs.cache
+C:\Users\vefje\source\repos\SolsystemMain\Solsystem\obj\Debug\net6.0\Solsystem.AssemblyInfo.cs
+C:\Users\vefje\source\repos\SolsystemMain\Solsystem\obj\Debug\net6.0\Solsystem.csproj.CoreCompileInputs.cache
+C:\Users\vefje\source\repos\SolsystemMain\Solsystem\obj\Debug\net6.0\Solsystem.dll
+C:\Users\vefje\source\repos\SolsystemMain\Solsystem\obj\Debug\net6.0\refint\Solsystem.dll
+C:\Users\vefje\source\repos\SolsystemMain\Solsystem\obj\Debug\net6.0\Solsystem.pdb
+C:\Users\vefje\source\repos\SolsystemMain\Solsystem\obj\Debug\net6.0\ref\Solsystem.dll
