@@ -40,10 +40,10 @@ namespace the_graphics
 
         List<Planet> allThePlanets = new List<Planet>();
         List<Label> allTheLabels = new List<Label>();
-     
-      
 
-        
+        public event Action timeDelegate;
+        public delegate void planetDelegate(Planet planet, int height, int width);
+
 
 
         int orbitalspeed = 1;
@@ -53,7 +53,7 @@ namespace the_graphics
         const double sunScale = 3481.7;
         bool orbitsVisible = false;
 
-
+        
 
     
 
@@ -69,7 +69,14 @@ namespace the_graphics
 
         }
 
+        public void updateTime()
+        {
+            if (orbitalspeed >= 1 && orbitalspeed <= 5)
+            {
+                timeInDays += orbitalspeed;
 
+            }
+        }
 
 
 
@@ -82,7 +89,9 @@ namespace the_graphics
             timer.Interval = 100;
             timer.Tick += T_Tick;
             timer.Start();
-            
+            timeDelegate += updateTime;
+
+         
 
 
             planetlabelCheckBox.Checked = true;
@@ -114,12 +123,9 @@ namespace the_graphics
         //Every time the timer ticks
         private void T_Tick(object sender, EventArgs e)
         {
-
-            if (orbitalspeed >= 1 && orbitalspeed <= 5)
-            {
-                timeInDays += orbitalspeed;
-
-            }
+            // Kjører updateTime() metoden
+            timeDelegate();
+          
 
 
             //Setting the position of the planets labels every time the position gets updated
@@ -133,8 +139,8 @@ namespace the_graphics
             uranusLabel.Location = new Point(uranus.xPosition + (int)(uranus.objectRadius / planetScale - uranusLabel.Width) / 2, uranus.yPosition + (int)(uranus.objectRadius / planetScale - uranusLabel.Height) / 2);
             neptuneLabel.Location = new Point(neptune.xPosition + (int)(neptune.objectRadius / planetScale - neptuneLabel.Width) / 2, neptune.yPosition + (int)(neptune.objectRadius / planetScale - neptuneLabel.Height) / 2);
 
+         
 
-          
 
 
             Invalidate();
@@ -216,16 +222,16 @@ namespace the_graphics
             sun.xPosition = MiddleX - 100;
             sun.yPosition = middleY - 100;
 
-
-
-            CalculatePosition(earth, (int)earth.objectRadius / 100, (int)earth.objectRadius / 100);
-            CalculatePosition(mars, (int)mars.objectRadius / 100, (int)mars.objectRadius / 100);
-            CalculatePosition(jupiter, (int)jupiter.objectRadius / 100, (int)jupiter.objectRadius / 100);
-            CalculatePosition(mercury, (int)mercury.objectRadius / 100, (int)mercury.objectRadius / 100);
-            CalculatePosition(saturn, (int)saturn.objectRadius / 100, (int)saturn.objectRadius / 100);
-            CalculatePosition(venus, (int)venus.objectRadius / 100, (int)venus.objectRadius / 100);
-            CalculatePosition(uranus, (int)uranus.objectRadius / 100, (int)uranus.objectRadius / 100);
-            CalculatePosition(neptune, (int)neptune.objectRadius / 100, (int)neptune.objectRadius / 100);
+            //Oppdaterer planetene sin posisjon basert på tid i dager
+            planetDelegate updatePlanetPosition = CalculatePosition;
+            updatePlanetPosition(earth, (int)earth.objectRadius / 100, (int)earth.objectRadius / 100);
+            updatePlanetPosition(mars, (int)mars.objectRadius / 100, (int)mars.objectRadius / 100);
+            updatePlanetPosition(jupiter, (int)jupiter.objectRadius / 100, (int)jupiter.objectRadius / 100);
+            updatePlanetPosition(mercury, (int)mercury.objectRadius / 100, (int)mercury.objectRadius / 100);
+            updatePlanetPosition(saturn, (int)saturn.objectRadius / 100, (int)saturn.objectRadius / 100);
+            updatePlanetPosition(venus, (int)venus.objectRadius / 100, (int)venus.objectRadius / 100);
+            updatePlanetPosition(uranus, (int)uranus.objectRadius / 100, (int)uranus.objectRadius / 100);
+            updatePlanetPosition(neptune, (int)neptune.objectRadius / 100, (int)neptune.objectRadius / 100);
 
 
 
